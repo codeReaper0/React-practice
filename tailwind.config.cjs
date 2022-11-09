@@ -5,6 +5,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       Inter: ["Inter", "sans-serif"],
+      Poppins: ["Poppins", "sans-serif"],
     },
   },
   plugins: [],

@@ -1,12 +1,12 @@
 import React from "react";
-import Main from "../components/Main";
-import NavBar from "../components/Navbar";
+import Main from "../components/airbnb/Main";
+import NavBar from "../components/airbnb/Navbar";
 
 function Home() {
   return (
     <div>
-      <Main />
       <NavBar />
+      <Main />
     </div>
   );
 }
