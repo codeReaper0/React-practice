@@ -1,7 +1,7 @@
 import hero from "../../assets/images/hero.png";
 function Main() {
   return (
-    <main className="py-10 max-w-5xl mx-auto font-poppins">
+    <main className="py-10 max-w-5xl p-4 sm:px-10 mx-auto font-poppins">
       <img
         src={hero}
         alt="hero image"
